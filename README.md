@@ -1,4 +1,7 @@
 # Face-Recognition-on-Windows-Simple-Robust
+
+My youtube video of testing: https://www.youtube.com/watch?v=Jwv2eR8Ejyo
+
 The world's simplest face recognition process on python implemented on a Windows 10 PC or a Laptop
 
 
