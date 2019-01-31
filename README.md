@@ -1,5 +1,5 @@
 # Face-Recognition-on-Windows-Simple-Robust
-The world's simplest face recognition library implemented on a Windows 10 PC or a Laptop
+The world's simplest face recognition process on python implemented on a Windows 10 PC or a Laptop
 
 
 1.First of all, you've to install python.
